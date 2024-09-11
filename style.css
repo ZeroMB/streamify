@@ -273,7 +273,7 @@ body {
     padding-right: 0.94rem !important;
     display: none;
     visibility: hidden;
-    animation: showArrow 0s forwards 0.35s;
+    animation: showArrow 0s forwards 0.38s;
 }
 
 @keyframes showArrow {
@@ -299,7 +299,7 @@ body {
     color: var(--text);
     overflow: hidden; /* Disable internal scrolling */
     visibility: hidden;
-    animation: showDescription 0s forwards 0.35s;
+    animation: showDescription 0s forwards 0.38s;
 }
 
 @keyframes showDescription {
@@ -458,7 +458,7 @@ body {
     height: fit-content;
     border-radius: 0.3125rem;
     visibility: hidden;
-    animation: showLogout 0s forwards 0.35s;
+    animation: showLogout 0s forwards 0.38s;
 }
 
 @keyframes showLogout {
